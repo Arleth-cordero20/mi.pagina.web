@@ -1,0 +1,168 @@
+body {
+  background-image: url(https://e1.pxfuel.com/desktop-wallpaper/141/421/desktop-wallpaper-i-made-a-heartstopper-inspired-phone-heartstopper-series.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+table,
+td,
+th {
+  border-style: dashed;
+}
+p {
+  border: 1px solid black;
+  margin-top: 8%;
+  margin-bottom: 8%;
+  margin-right: 8%;
+  margin-left: 8%;
+  text-align: center;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+p,
+table {
+  background-color: rgb(255, 228, 228);
+}
+table,
+td,
+th {
+  border-collapse: collapse;
+}
+h1 {
+  color: rgba(167, 235, 131, 0.799);
+  font-size: 500%;
+  text-align: center;
+  font-family: cursive;
+
+  text-shadow: 4px 2px 1px black, 0 0 5px rgb(240, 166, 229);
+}
+ul,
+.lu,
+.netf {
+  background-color: rgb(219, 255, 184);
+}
+
+img,
+.netf {
+  border: 3px dotted black;
+}
+p {
+  padding: 20px;
+}
+h1 {
+  border: 5px dotted black;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 20%;
+  margin-left: 20%;
+  padding: 10px;
+}
+ul {
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  font-size: 130%;
+  padding: 10px;
+  position: relative;
+  left: 35px;
+}
+.la {
+  float: right;
+}
+.lo,
+.ali {
+  float: left;
+}
+.lo,
+.la {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 22px;
+  margin-left: 22px;
+}
+h2 {
+  text-align: center;
+  text-decoration: overline underline;
+  font-size: 400%;
+  font-family: cursive;
+  margin-top: 120px;
+}
+caption {
+  text-decoration: overline underline;
+  font-size: 70px;
+}
+.im {
+  box-shadow: 9px 6px 8px black;
+}
+
+#logo {
+  width: 9%;
+  border-radius: 90px;
+  position: absolute;
+  right: 20px;
+}
+strong {
+  font-size: 50px;
+  text-shadow: 4px 2px 1px rgb(236, 232, 232);
+}
+.ali {
+  margin-top: 2px;
+  margin-bottom: 15px;
+  margin-right: 22px;
+  margin-left: 14px;
+}
+.pp {
+  font-size: 124%;
+}
+.igtf {
+  border-radius: 90px;
+}
+
+.up {
+  position: fixed;
+  right: 5px;
+  height: 50px;
+  bottom: 60px;
+  color: coral;
+  font-size: 50px;
+  width: 50px;
+  height: 60px;
+}
+.netf {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 170px;
+  margin-right: 170px;
+  padding: 30px;
+  font-size: 20px;
+  border-radius: 40px;
+  text-indent: 10px;
+}
+span {
+  font-size: 300%;
+  font-family: cursive;
+  color: white;
+  text-shadow: 4px 2px 0px black;
+}
+
+.vid {
+  position: relative;
+  left: 20%;
+
+  border: 2px dotted black;
+}
+.im {
+  width: 55%;
+}
+
+@media (max-width: 400px) {
+  /*Estilos para dispositivos moviles*/
+  body {
+    font-size: 25%;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
